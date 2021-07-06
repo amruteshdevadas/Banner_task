@@ -1,0 +1,130 @@
+#div1
+{
+width:40%;
+border-right: dashed 2px darkturquoise ;
+padding-left: 10%;
+
+}
+#div2
+{
+width: 40%;
+
+
+}
+#div3
+{
+   
+width:40%;
+border-right: dashed 2px darkturquoise ;
+padding-left: 10%;
+
+}
+#div4
+{
+width: 40%;
+
+}
+#upperhalf{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 80%;
+    padding: 0% 10% 0% 10%;
+}
+#images{
+    display:flex;
+    flex-wrap:wrap;
+    padding-top: 5%;
+}
+
+.font_1
+{
+    color: darkblue;
+    font-size: xx-large;
+    font-weight: 1000;
+    text-align: center;
+}
+.font_2
+{
+padding-left: 10%;
+padding-right: 5%;
+color:white;
+text-align:center;
+background-color: turquoise;
+width:85%;
+}
+.font_3
+{
+    display:flex;
+    flex-wrap: wrap;
+
+}
+.font_4
+{
+    width:65%;
+    color: darkturquoise;
+}
+.font_5
+{
+    padding-left: 15%;
+}
+.font6
+{
+    color:rgb(42, 33, 97);
+    font-size: medium;
+    font-weight: bolder;
+}
+.font7
+{
+color:rgb(231, 159, 24);
+font-size: medium;
+font-weight: bold;
+
+}
+.font8
+{
+    color:rgb(231, 159, 24);
+    font-size: small;
+}
+.font9
+{
+    color:darkturquoise;
+    font-size: smaller;
+}
+.font10
+{
+    color:darkturquoise;
+    font-size: medium;
+}
+.font11
+{
+    font-size: x-large;
+    color: darkblue;
+    text-transform: uppercase;
+}
+.font12
+{
+    font-size: xx-large;
+    font-weight: 1000;
+    color:rgb(231, 159, 24);
+}
+.font13
+{
+    font-size:x-large ;
+    color:darkblue;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-left: 10%;
+}
+.font14
+{
+    font-size: xx-large;
+    color:rgb(231, 159, 24);
+}
+.font15{
+    font-size: xx-large;
+    color: darkblue;
+}
